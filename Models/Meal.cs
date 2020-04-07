@@ -12,6 +12,7 @@ namespace CampAprilSix.Models
        
         public string Breakfast { get; set; }
         public string Lunch { get; set; }
+        public Food Type { get; set;}
 
     }
 }

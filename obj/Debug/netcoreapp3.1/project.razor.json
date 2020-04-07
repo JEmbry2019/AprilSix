@@ -20526,8 +20526,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Game\\Details.cshtml",
+      "TargetPath": "Views\\Game\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Meal\\Index.cshtml",
+      "TargetPath": "Views\\Meal\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Camper\\Details.cshtml",
+      "TargetPath": "Views\\Camper\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Camper\\Delete.cshtml",
+      "TargetPath": "Views\\Camper\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Camper\\Edit.cshtml",
+      "TargetPath": "Views\\Camper\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20536,8 +20561,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Game\\Index.cshtml",
+      "TargetPath": "Views\\Game\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Game\\Create.cshtml",
+      "TargetPath": "Views\\Game\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Game\\Delete.cshtml",
+      "TargetPath": "Views\\Game\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20546,13 +20586,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Meal\\Details.cshtml",
+      "TargetPath": "Views\\Meal\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Meal\\Delete.cshtml",
+      "TargetPath": "Views\\Meal\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Game\\Edit.cshtml",
+      "TargetPath": "Views\\Game\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Camper\\Index.cshtml",
+      "TargetPath": "Views\\Camper\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Meal\\Create.cshtml",
+      "TargetPath": "Views\\Meal\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Camper\\Create.cshtml",
+      "TargetPath": "Views\\Camper\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jmsem\\Desktop\\ProjTestFolder\\CampAprilSix\\Views\\Meal\\Edit.cshtml",
+      "TargetPath": "Views\\Meal\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
