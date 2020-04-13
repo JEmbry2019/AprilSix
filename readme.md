@@ -18,12 +18,13 @@ MVC/Razor
 
 How to make the Project work.
 Open the GitHub link with Visual Studio Code.
-After the program loads Click on Terminal and Open a New Terminal
-In the terminal type dotnet ef database update then press ENTER.
-In the terminal type dotnet run then press ENTER.
+Create a Console by Clicking  on Terminal and Open a New Terminal
+In the Console type dotnet ef database update then press ENTER.
+In the Console type dotnet run then press ENTER.
 The program will build and create a local web address and other directions in the console.
 Type the address (http://localhost5001) into a Chrome browser.
 Follow the prompts.
+
 Features
 Name 
 Age Selection
